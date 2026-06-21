@@ -1,4 +1,5 @@
-# DecodeLabs Data Science Internship - Project 1 Only
+# DecodeLabs Data Science Internship - Project 1
+
 
 A focused analysis and feature engineering project for e-commerce retail data.
 
