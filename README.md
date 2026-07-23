@@ -18,7 +18,7 @@ A focused analysis and feature engineering project for e-commerce retail data.
   - Cart Fill Ratio
   - High Value Order Indicator
   - Coupon Usage Flag
-  - Referral Indicator
+  - Referral Indicator.
 
 ### Output
 - `project_1_cleaned_dataset.csv` — cleaned dataset with engineered features
